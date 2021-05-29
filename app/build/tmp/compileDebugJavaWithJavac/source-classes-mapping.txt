@@ -1,0 +1,2 @@
+com/example/santanderdevweek/BuildConfig.java
+ com.example.santanderdevweek.BuildConfig
