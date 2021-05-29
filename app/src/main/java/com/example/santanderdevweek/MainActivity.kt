@@ -25,10 +25,6 @@ class MainActivity : AppCompatActivity() {
                 Log.d("CLICK", "CLICK NO ITEM 1 DO OPTIONS MENU")
                 true
             }
-            R.id.item_2 -> {
-                Log.d("CLICK", "CLICK NO ITEM 2 DO OPTIONS MENU")
-                true
-            }
             else -> super.onOptionsItemSelected(item)
         }
     }
